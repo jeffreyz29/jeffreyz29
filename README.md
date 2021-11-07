@@ -51,13 +51,10 @@ Age: 17+ / `sagittarius`
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
 ### This week I spent my time on:
-<!--START_SECTION:waka-->
 ```text
 JavaScript   1 hr 55 mins    █████████████████▒░░░░░░░   69.86 % 
 Python       30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 % 
 ```
-<!--END_SECTION:waka-->
-
 ### Connect With Me:
 
 - [about me](https://jeffrey29.carrd.co)
