@@ -21,7 +21,7 @@ Age: 17+ / `sagittarius`
 
 <br />
 
-[![Kbot Multi Utility Bot](https://img.shields.io/website?label=kbot.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fhttps://kbot.me)](https://kbot.gitbook.io)
+[![Kbot Multi Utility Bot](https://img.shields.io/website?label=kbot.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fhttps://kbot.me)](https://kbot.me)
 [![Ravi Apm Bot](https://img.shields.io/website?label=ravi-docs.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fhttps://ravi-docs.gitbook.io)](https://ravi.me)
 
 ### I'm a Senior High School Student!
