@@ -24,8 +24,6 @@ Age: 17+ / `sagittarius`
 
 <br />
 
-[![Spotify](https://bckg0iitbw9cd4aof4zlpekc7.vercel.app/api/spotify)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7)
-
 ### I'm a Senior High School Student!
 
 - I own a kpop themed server [discord.gg/wonwoo](https://discord.gg/D45csdkUas)
