@@ -23,6 +23,7 @@ Age: 17+ / `sagittarius`
 
 - Python
 - JavaScript
+- HTML
 - Vs Code
 
 ### My Kpop Discord Bot Invites:
