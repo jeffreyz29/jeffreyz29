@@ -3,7 +3,7 @@
 ### Spotify PLaying...
 
 <a href="https://novatorem-sigma-hazel.vercel.app/now-playing?open">
-    <img src="https://novatorem-sigma-hazel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://novatorem-sigma-hazel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 ![Jeffrey's Status](https://discord-readme-badge.vercel.app/api?id=764874247646085151)
