@@ -1,15 +1,6 @@
 ![image0](https://cdn.discordapp.com/attachments/802693567856246804/906666978549325824/mingyu_1.52.40_PM.gif)
 
-
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](novatorem-sigma-hazel.vercel.app/api/spotify)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7)
-
-  </td>
-  <td width="50%">
+[![Spotify](novatorem-sigma-hazel.vercel.app/api/spotify)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7)
 
 ![Jeffrey's Status](https://discord-readme-badge.vercel.app/api?id=764874247646085151)
 
