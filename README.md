@@ -1,7 +1,6 @@
 ![image0](https://cdn.discordapp.com/attachments/802693567856246804/906666978549325824/mingyu_1.52.40_PM.gif)
 
 ### Spotify PLaying...
-
 [![Spotify](my-repo-for-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7)
 
 ![Jeffrey's Status](https://discord-readme-badge.vercel.app/api?id=764874247646085151)
@@ -53,6 +52,14 @@ Age: 17+ / `sagittarius`
 ### My apm Ticketing Discord bot:
 
 - [ravi apm tickets](https://bit.ly/ravitickets)
+
+📊 **This week I spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 55 mins    █████████████████▒░░░░░░░   69.86 % 
+Python       30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 % 
+```
+<!--END_SECTION:waka-->
 
 ### Connect With Me:
 
