@@ -23,6 +23,7 @@ Age: 17+ / `sagittarius`
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jeffreyz1129.Jeffreyz1129)
 
 <br />
+
 ### I'm a Senior High School Student!
 
 - I own a kpop themed server [discord.gg/wonwoo](https://discord.gg/D45csdkUas)
