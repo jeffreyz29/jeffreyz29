@@ -2,9 +2,7 @@
 
 ### Spotify PLaying...
 
-<a href="https://spotify-client-six.vercel.app/now-playing?open">
-    <img src="https://spotify-client-six.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+[![Spotify](https://spotify-client-six.vercel.app//api/spotify)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7)
 
 ![Jeffrey's Status](https://discord-readme-badge.vercel.app/api?id=764874247646085151)
 
