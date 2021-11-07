@@ -2,7 +2,7 @@
 
 ### Spotify PLaying...
 
-[![Spotify](https://spotify-client-six.vercel.app//api/spotify)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7)
+[![Spotify](my-repo-for-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7)
 
 ![Jeffrey's Status](https://discord-readme-badge.vercel.app/api?id=764874247646085151)
 
