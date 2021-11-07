@@ -46,7 +46,6 @@ Age: 17+ / `sagittarius`
 
 ### My status:
 
-[![ci-build-status](https://img.shields.io/github/workflow/status/Jeffreyz1129/Jeffreyz1129/CI?logo=github)](https://github.com/Jeffreyz1129/Jeffreyz1129)
 ![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyz1129&show_icons=true&theme=dracula)
 
