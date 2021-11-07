@@ -11,13 +11,13 @@ Pronouns: **HE**/__HIM__
 Age: 17+ / `sagittarius`
 
 <a href="https://discord.gg/D45csdkUas">
-  <img align="left" alt="Jeffrey's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Jeffrey's Discord" width="22px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=f8e46353d5b14862">
-  <img align="left" alt="Jeffrey's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Jeffrey's Spotify" width="22px" src="https://img.shields.io/badge/Spotify-E4405F?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/jeffrey_z29/">
-  <img align="left" alt="Jeffrey's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Jeffrey's Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Jeffreyz1129.Jeffreyz1129)
