@@ -13,12 +13,6 @@ Age: 17+ / `sagittarius`
 <a href="https://discord.gg/D45csdkUas">
   <img align="left" alt="Jeffrey's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.instagram.com/jeffrey_z29">
-  <img align="left" alt="Jeffreyz1129 | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
-<a href="https://jeffrey29.carrd.co/">
-  <img align="left" alt="MY Carrd" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/carrd.svg" />
-</a>
 <a href="https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=f8e46353d5b14862">
   <img align="left" alt="Jeffrey's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
@@ -54,7 +48,6 @@ Age: 17+ / `sagittarius`
 - [hyunsuk bot](https://bit.ly/hyunsukbot)
 - [jeongwoo bot](https://bit.ly/jeongwoobot)
 - [eric sohn bot](https://bit.ly/ericsohnbot)
-
 
 ### My apm Ticketing Discord bot:
 
