@@ -14,7 +14,7 @@ Age: 17+ / `sagittarius`
   <img align="left" alt="Jeffrey's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/jeffrey_z29/">
-  <img align="left" alt="Jeffrey's | Instagram" width="22px" src="https://unpkg.com/simple-icons@v5/icons/instagram" />
+  <img align="left" alt="Jeffrey's | Instagram" width="22px" src="![image](https://user-images.githubusercontent.com/68307390/140659974-126f3adc-5538-4e93-9ff1-64dd1e3b96ab.png)" />
 </a>
 <a href="https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=f0695141eab648e5">
   <img align="left" alt="Jeffrey's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
