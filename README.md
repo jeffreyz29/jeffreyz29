@@ -21,7 +21,6 @@ Age: 17+ / `sagittarius`
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jeffreyz1129.Jeffreyz1129)
-
 <br />
 
 ### I'm a Senior High School Student!
