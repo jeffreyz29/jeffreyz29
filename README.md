@@ -1,7 +1,6 @@
 ![image0](https://cdn.discordapp.com/attachments/802693567856246804/906666978549325824/mingyu_1.52.40_PM.gif)
 
-![Jeffrey's Status](https://discord-readme-badge.vercel.app/api?id=764874247646085151)
-
+___
 ### Hi there, I'm Jeffrey/Jaehyun *!*
 
 Pronouns: **HE**/__HIM__
