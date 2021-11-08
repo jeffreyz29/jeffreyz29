@@ -1,5 +1,6 @@
 ![image0](https://cdn.discordapp.com/attachments/802693567856246804/906666978549325824/mingyu_1.52.40_PM.gif)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bckg0iitbw9cd4aof4zlpekc7&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=bckg0iitbw9cd4aof4zlpekc7&redirect=true)
 ___
 ### Hi there, I'm Jeffrey/Jaehyun *!*
 
