@@ -53,9 +53,9 @@ Age: 17+ / `sagittarius`
 
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Youtube posts
+<!-- YOUTUBE-POST-LIST:START -->
+<!-- YOUTUBE-POST-LIST:END -->
 
 ### Connect With Me:
 
