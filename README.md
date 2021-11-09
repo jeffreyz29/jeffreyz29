@@ -53,13 +53,13 @@ Age: 17+ / `sagittarius`
 
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
-### This week I spent my time on:
-<!--START_SECTION:waka-->
+### Recent Activity:
+<!--START_SECTION:activity-->
 ```text
 JavaScript   1 hr 55 mins    █████████████████▒░░░░░░░   69.86 % 
 Python       30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 % 
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:activitya-->
 
 ### Connect With Me:
 
