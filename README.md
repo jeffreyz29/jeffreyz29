@@ -73,6 +73,5 @@ Python       30 mins         ███████▓░░░░░░░░░
 
 ![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyz1129&langs_count=5&theme=dracula)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeffreyz1129)](https://github.com/Jeffreyz1129/Jeffreyz1129/)
 
 
