@@ -53,6 +53,12 @@ Age: 17+ / `sagittarius`
 
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
+### Recent Activity:
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### Connect With Me:
 
 - [about me](https://jeffrey29.carrd.co)
