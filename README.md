@@ -54,10 +54,13 @@ Age: 17+ / `sagittarius`
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
 ### This week I spent my time on:
+<!--START_SECTION:waka-->
 ```text
 JavaScript   1 hr 55 mins    █████████████████▒░░░░░░░   69.86 % 
 Python       30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 % 
 ```
+<!--END_SECTION:waka-->
+
 ### Connect With Me:
 
 - [about me](https://jeffrey29.carrd.co)
@@ -70,4 +73,6 @@ Python       30 mins         ███████▓░░░░░░░░░
 
 ![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyz1129&langs_count=5&theme=dracula)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeffreyz1129)](https://github.com/Jeffreyz1129/Jeffreyz1129/)
+
 
