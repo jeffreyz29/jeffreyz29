@@ -53,7 +53,7 @@ Age: 17+ / `sagittarius`
 
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
-### Recent Activity:
+### Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
 
