@@ -55,7 +55,7 @@ Age: 17+ / `sagittarius`
 
 ### My Websites:
 
-[website](https://jeffreyz1129.github.io/)
+- [website](https://jeffreyz1129.github.io/)
 
 ### Connect With Me:
 
