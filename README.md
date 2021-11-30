@@ -67,6 +67,11 @@ Age: 17+ / `sagittarius`
 
 ### My status:
 
+```md
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+```
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyz1129&langs_count=5&theme=dracula)
 
