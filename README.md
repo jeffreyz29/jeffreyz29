@@ -65,6 +65,10 @@ Age: 17+ / `sagittarius`
 - [youtube](https://www.youtube.com/channel/UCXdSZ8ojTywMYmsRp2t5r9A)
 - [paypal](https://www.paypal.com/paypalme/jeffreyz29)
 
+
+<iframe src="https://discord.com/widget?id=782044684041977876&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+
 ### My status:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
