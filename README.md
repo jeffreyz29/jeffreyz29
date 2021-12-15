@@ -66,7 +66,7 @@ Age: 17+ / `sagittarius`
 - [paypal](https://www.paypal.com/paypalme/jeffreyz29)
 
 ### Repo Pins:
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My status:
 
