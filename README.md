@@ -53,9 +53,14 @@ Age: 17+ / `sagittarius`
 
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
-### My Websites:
+### My Website:
 
 - [website](https://jeffreyz1129.github.io/)
+
+### My servers:
+  <a href="https://discord.gg/wonwoo">
+    <img src="https://img.shields.io/discord/782044684041977876.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
+  </a>
 
 ### Connect With Me:
 
