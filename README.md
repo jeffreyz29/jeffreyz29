@@ -66,6 +66,14 @@ Age: 17+ / `sagittarius`
     <img src="https://img.shields.io/discord/813183701696905236.svg?label=Ravi Support&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
 
+  <a href="https://discord.gg/pJZea5PaK6">
+    <img src="https://img.shields.io/discord/777333236896497665.svg?label=Ravi Support&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
+  </a>
+
+  <a href="https://discord.gg/24upGRFvyH">
+    <img src="https://img.shields.io/discord/909751963120463884.svg?label=Ravi Support&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
+  </a>
+
 ### Connect With Me:
 
 - [about me](https://jeffrey29.carrd.co)
