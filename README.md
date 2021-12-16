@@ -92,6 +92,8 @@ Age: 17+ / `sagittarius`
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyz1129&langs_count=5&theme=dracula)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeffrey_z29)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
+<div class="github-card" data-github="Jeffreyz1129" data-width="400" data-height="151" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 
