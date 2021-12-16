@@ -71,7 +71,7 @@ Age: 17+ / `sagittarius`
   </a>
 
   <a href="https://discord.gg/24upGRFvyH">
-    <img src="https://img.shields.io/discord/909751963120463884.svg?label=Ravi Support&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
+    <img src="https://img.shields.io/discord/909751963120463884.svg?label=Emerald&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
 
 ### Connect With Me:
