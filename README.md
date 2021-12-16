@@ -58,8 +58,12 @@ Age: 17+ / `sagittarius`
 - [website](https://jeffreyz1129.github.io/)
 
 ### My servers:
-  <a href="https://discord.gg/wonwoo">
+  <a href="https://discord.gg/D45csdkUas">
     <img src="https://img.shields.io/discord/782044684041977876.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
+  </a>
+
+  <a href="https://discord.gg/gv2vjKqZP7">
+    <img src="https://img.shields.io/discord/813183701696905236.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
 
 ### Connect With Me:
