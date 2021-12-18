@@ -80,7 +80,8 @@ Age: 17+ / `sagittarius`
 - [instagram](https://www.instagram.com/jeffrey_z29)
 - [spotify](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=f8e46353d5b14862)
 - [youtube](https://www.youtube.com/channel/UCXdSZ8ojTywMYmsRp2t5r9A)
-- [paypal](https://www.paypal.com/paypalme/jeffreyz29)
+- [paypal](paypal.me/jeffreyz2911)
+- [ko-fi](https://ko-fi.com/V7V826SDX)
 
 ### Repo Pins:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129)](https://github.com/anuraghazra/github-readme-stats)
