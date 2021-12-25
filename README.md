@@ -83,12 +83,12 @@ Age: 17+ / `sagittarius`
 - [paypal](https://paypal.me/jeffreyz2911)
 - [ko-fi](https://ko-fi.com/V7V826SDX)
 
-### Pinned:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyz1129&langs_count=5&theme=dracula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeffrey_z29)](https://github.com/anuraghazra/github-readme-stats)
+
+### Pinned Repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+### My Statuses:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyz1129&langs_count=5&theme=dracula)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeffrey_z29)](https://github.com/anuraghazra/github-readme-stats)
