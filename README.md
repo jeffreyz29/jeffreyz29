@@ -17,7 +17,7 @@ Age: 17+ / `sagittarius`
 <a href="https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=f0695141eab648e5">
   <img align="left" alt="Jeffrey's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.paypal.me/jeffreyz29">
+<a href="https://ko-fi.com/jaehyun29">
   <img align="left" alt="Jeffrey's Instagram" width="22px" src="https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/paypal.svg?sanitize=true" />
 </a>
 
