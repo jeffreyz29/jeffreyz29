@@ -43,15 +43,9 @@ Age: 17+ / `sagittarius`
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### My Kpop Discord Bot Invites:
-
-- [hyunsuk bot](https://bit.ly/hyunsukbot)
-- [jeongwoo bot](https://bit.ly/jeongwoobot)
-- [eric sohn bot](https://bit.ly/ericsohnbot)
-
 ### My apm Ticketing Discord bot:
 
-- [ravi apm tickets](https://bit.ly/ravitickets)
+- [ravi apm tickets](https://bit.ly/raviticket)
 
 ### My Website:
 
@@ -64,14 +58,6 @@ Age: 17+ / `sagittarius`
 
   <a href="https://discord.gg/gv2vjKqZP7">
     <img src="https://img.shields.io/discord/813183701696905236.svg?label=Ravi Support&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
-  </a>
-
-  <a href="https://discord.gg/pJZea5PaK6">
-    <img src="https://img.shields.io/discord/777333236896497665.svg?label=Ravi Support&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
-  </a>
-
-  <a href="https://discord.gg/24upGRFvyH">
-    <img src="https://img.shields.io/discord/909751963120463884.svg?label=Emerald&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
 
 ### Connect With Me:
