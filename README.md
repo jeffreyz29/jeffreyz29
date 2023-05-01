@@ -55,7 +55,6 @@ Age: 18+ / `sagittarius`
 
 ### Pinned Repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Statuses:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
