@@ -6,16 +6,16 @@ ___
 
 Pronouns: **HE**/__HIM__
 <br />
-Age: 17+ / `sagittarius`
+Age: 18+ / `sagittarius`
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jeffreyz1129.Jeffreyz1129)
 
 
-### I'm a Senior High School Student!
+### I'm a Freshman in College!
 
-- I own a kpop themed server [discord.gg/wonwoo](https://discord.gg/D45csdkUas)
+- I own a kpop themed server [discord.gg/D45csdkUas](https://discord.gg/D45csdkUas)
 - Currently Learning JavaScript + Python + HTML
-- Current goals: Finish my Highschool Year.
+- Current goals: Finish my college year.
 
 ### Currently Learning and using:
 
@@ -32,7 +32,7 @@ Age: 17+ / `sagittarius`
 
 ### My apm Ticketing Discord bot:
 
-- [ravi apm tickets](https://bit.ly/raviticket)
+- [ravi apm tickets]([https://bit.ly/raviticket](https://ravi-docs.gitbook.io/))
 
 ### My Website:
 
@@ -52,7 +52,6 @@ Age: 17+ / `sagittarius`
 - [about me](https://jeffrey29.carrd.co)
 - [instagram](https://www.instagram.com/jeffrey_z29)
 - [spotify](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=f8e46353d5b14862)
-- [youtube](https://www.youtube.com/channel/UCXdSZ8ojTywMYmsRp2t5r9A)
 
 ### Pinned Repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129)](https://github.com/anuraghazra/github-readme-stats)
