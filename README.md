@@ -41,6 +41,7 @@ Age: 18+ / `sagittarius`
 ### My servers:
 
 [![](https://dcbadge.vercel.app/api/server/D45csdkUas)](https://discord.gg/D45csdkUas)
+
 [![](https://dcbadge.vercel.app/api/server/gv2vjKqZP7)](https://discord.gg/gv2vjKqZP7)
 
 ](https://discord.gg/gv2vjKqZP7)
