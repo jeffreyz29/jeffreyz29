@@ -44,7 +44,6 @@ Age: 18+ / `sagittarius`
 
 [![](https://dcbadge.vercel.app/api/server/gv2vjKqZP7)](https://discord.gg/gv2vjKqZP7)
 
-](https://discord.gg/gv2vjKqZP7)
 ### Connect With Me:
 
 - [about me](https://jeffrey29.carrd.co)
