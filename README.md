@@ -6,9 +6,9 @@ ___
 
 Pronouns: **HE**/__HIM__
 <br />
-Age: 18+ / `sagittarius`
+Age: 19+ / `sagittarius`
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jeffreyz1129.Jeffreyz1129)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffreyz29.jeffreyz29)
 
 
 ### I'm a Freshman in College!
@@ -36,7 +36,7 @@ Age: 18+ / `sagittarius`
 
 ### My Website:
 
-- [website](https://jeffreyz1129.github.io/)
+- [website](https://jeffreyz29.github.io/)
 
 ### My servers:
 
@@ -47,12 +47,12 @@ Age: 18+ / `sagittarius`
 ### Connect With Me:
 
 - [about me](https://jeffrey29.carrd.co)
-- [instagram](https://www.instagram.com/jeffrey_z29)
+- [instagram](https://www.instagram.com/jeffreyz29)
 - [spotify](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=f8e46353d5b14862)
 
 ### Pinned Repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyz1129&repo=Jeffreyz1129)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffreyz29&repo=jeffreyz29)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Statuses:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffreyz1129&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyz1129&langs_count=10&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyz29&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyz29&langs_count=10&theme=dracula)
