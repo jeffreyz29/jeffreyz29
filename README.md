@@ -2,18 +2,17 @@
 
 [![Jeffrey's Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bckg0iitbw9cd4aof4zlpekc7&cover_image=false&theme=default)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=tYQVohKOQAWfqF0l32ahKQ)
 ___
-### Hi there, I'm Jeffrey/Jaehyun *!*
+### Hi there, I'm Jeffrey *!*
 
 Pronouns: **HE**/__HIM__
 <br />
-Age: 19+ / `sagittarius`
+Age: 19 / `scorpio`
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffreyz29.jeffreyz29)
 
 
-### I'm a Freshman in College!
+### I'm a Sophomore in College!
 
-- I own a kpop themed server [discord.gg/D45csdkUas](https://discord.gg/D45csdkUas)
 - Currently Learning JavaScript + Python + HTML
 - Current goals: Finish my college year.
 
