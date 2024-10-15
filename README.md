@@ -1,6 +1,4 @@
 ![image0](https://cdn.discordapp.com/attachments/802693567856246804/906666978549325824/mingyu_1.52.40_PM.gif)
-
-[![Jeffrey's Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bckg0iitbw9cd4aof4zlpekc7&cover_image=false&theme=default)](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=tYQVohKOQAWfqF0l32ahKQ)
 ___
 ### Hi there, I'm Jeffrey *!*
 
