@@ -29,11 +29,8 @@ Age: 19 / `scorpio`
 
 ### My apm Ticketing Discord bot:
 
-- [ravi apm tickets]([https://bit.ly/raviticket](https://ravi-docs.gitbook.io/))
 
-### My Website:
 
-- [website](https://jeffreyz29.github.io/)
 
 ### My servers:
 
@@ -41,10 +38,6 @@ Age: 19 / `scorpio`
 
 [![](https://dcbadge.vercel.app/api/server/gv2vjKqZP7)](https://discord.gg/gv2vjKqZP7)
 
-### Connect With Me:
-
-- [about me](https://jeffrey29.carrd.co)
-- [instagram](https://www.instagram.com/jeffreyz29)
 - [spotify](https://open.spotify.com/user/bckg0iitbw9cd4aof4zlpekc7?si=f8e46353d5b14862)
 
 ### Pinned Repos:
