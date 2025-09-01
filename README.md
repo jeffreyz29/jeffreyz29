@@ -4,10 +4,7 @@ ___
 
 Pronouns: **HE**/__HIM__
 <br />
-Age: 19 / `scorpio`
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffreyz29.jeffreyz29)
-
+Age: 20 / `saggitaurius`
 
 ### I'm a Sophomore in College!
 
